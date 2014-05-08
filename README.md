@@ -13,28 +13,28 @@ http://youtu.be/9SEDTtT93_0 <br>
 
 ### Some documentations...
 The directory structure looks like this:<br>
-AndroidManifest.xml
-src/
-res/
-assets/
-  boot-animation/
-  fonts/
-  icons/
-    res/ (note: same dir structure as res/ in trebuchet icon packs)
-  wallpapers/
-  ringtones/
-  notifications/
-  alarms/
-  overlays/
-      [target-pkg-name1]
-          res/
-           drawable/
-           drawable-hdpi/
-           ...
-           layouts/
-           xml/
-      [target-pkg-name2]
-          res/
+AndroidManifest.xml<br>
+src/<br>
+res/<br>
+assets/<br>
+  boot-animation/<br>
+  fonts/<br>
+  icons/<br>
+    res/ (note: same dir structure as res/ in trebuchet icon packs)<br>
+  wallpapers/<br>
+  ringtones/<br>
+  notifications/<br>
+  alarms/<br>
+  overlays/<br>
+      [target-pkg-name1]<br>
+          res/<br>
+           drawable/<br>
+           drawable-hdpi/<br>
+           ...<br>
+           layouts/<br>
+           xml/<br>
+      [target-pkg-name2]<br>
+          res/<br>
 <br>          
 A theme APK is identified by meta-value data in AndroidManifest.xml. Here is an example:
 <?xml version="1.0" encoding="utf-8"?>
