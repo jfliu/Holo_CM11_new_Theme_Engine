@@ -37,7 +37,7 @@ assets/<br>
           res/<br>
       
 A theme APK is identified by meta-value data in AndroidManifest.xml. Here is an example:<br>
-<!-- 
+<pre>
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.me.andytheme2"
@@ -47,7 +47,7 @@ A theme APK is identified by meta-value data in AndroidManifest.xml. Here is an 
     <meta-data android:name="org.cyanogenmod.theme.name" android:value="My Blue Theme"/>
     <meta-data android:name="org.cyanogenmod.theme.author" android:value="John Doe" />
 </manifest>
--->
+</pre>
 Click <a href="http://review.cyanogenmod.org/#/c/62375/">here</a> to see the full documentation.
 
 ### Good theming guys !!
