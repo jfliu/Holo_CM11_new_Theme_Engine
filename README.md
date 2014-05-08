@@ -6,4 +6,10 @@ a big thanks to Esa <a href="https://plus.google.com/u/0/+EsaLaukkanen/posts/fch
 
 
 ### How it works ...
-<video src="http://youtu.be/9SEDTtT93_0">
+http://youtu.be/9SEDTtT93_0
+<img src="https://lh6.googleusercontent.com/-Xe6PIcf5PH8/U2vr8RHPqXI/AAAAAAAAYmY/-0aCPmOU2F8/w355-h592-no/14+-+1">
+<img src="https://lh3.googleusercontent.com/-U0xJUqfbP2U/U2vr8ZJouZI/AAAAAAAAYmk/arIMpoJF1Q4/w355-h592-no/14+-+2">
+<img src="https://lh4.googleusercontent.com/-pOB-U3cXJbo/U2vMDVy9_bI/AAAAAAAAYlw/sbtwRYB3pJQ/w355-h592-no/14+-+2">
+
+
+### Good theming guys !!
