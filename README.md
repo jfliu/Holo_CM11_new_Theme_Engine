@@ -12,7 +12,7 @@ http://youtu.be/9SEDTtT93_0 <br>
 <img src="https://lh4.googleusercontent.com/-pOB-U3cXJbo/U2vMDVy9_bI/AAAAAAAAYlw/sbtwRYB3pJQ/w355-h592-no/14+-+2">
 
 ### Some documentations...
-The directory structure looks like this:<br>
+The directory structure looks like this:<br><pre>
 AndroidManifest.xml<br>
 src/<br>
 res/<br>
@@ -34,7 +34,7 @@ assets/<br>
            layouts/<br>
            xml/<br>
       [target-pkg-name2]<br>
-          res/<br>
+          res/</pre><br>
       
 A theme APK is identified by meta-value data in AndroidManifest.xml. Here is an example:<br>
 <pre><div class="line" id="LC1"><span class="nt">&lt;manifest</span> <span class="na">xmlns:android=</span><span class="s">"http://schemas.android.com/apk/res/android"</span></div><div class="line" id="LC2">&nbsp;&nbsp;&nbsp;&nbsp;<span class="na">package=</span><span class="s">"com.botty.testcm11"</span><span class="nt">&gt;</span></div><div class="line" id="LC3"><br></div><div class="line" id="LC4">&nbsp;&nbsp;&nbsp;&nbsp;<span class="nt">&lt;uses-feature</span> <span class="na">android:name=</span><span class="s">"org.cyanogenmod.theme"</span> <span class="nt">/&gt;</span></div><div class="line" id="LC5">&nbsp;&nbsp;&nbsp;&nbsp;<span class="nt">&lt;meta-data</span> <span class="na">android:name=</span><span class="s">"org.cyanogenmod.theme.name"</span> <span class="na">android:value=</span><span class="s">"My Test Theme"</span><span class="nt">/&gt;</span></div><div class="line" id="LC6">&nbsp;&nbsp;&nbsp;&nbsp;<span class="nt">&lt;meta-data</span> <span class="na">android:name=</span><span class="s">"org.cyanogenmod.theme.author"</span> <span class="na">android:value=</span><span class="s">"Botty Ivan"</span> <span class="nt">/&gt;</span></div><div class="line" id="LC7"><br></div><div class="line" id="LC8">&nbsp;&nbsp;&nbsp;&nbsp;<span class="nt">&lt;application</span> <span class="na">android:allowBackup=</span><span class="s">"true"</span></div><div class="line" id="LC9">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="na">android:label=</span><span class="s">"@string/app_name"</span></div><div class="line" id="LC10">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="na">android:icon=</span><span class="s">"@drawable/ic_launcher"</span></div><div class="line" id="LC11">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="na">android:theme=</span><span class="s">"@style/AppTheme"</span><span class="nt">&gt;</span></div><div class="line" id="LC12"><br></div><div class="line" id="LC13">&nbsp;&nbsp;&nbsp;&nbsp;<span class="nt">&lt;/application&gt;</span></div><div class="line" id="LC14"><br></div><div class="line" id="LC15"><span class="nt">&lt;/manifest&gt;</span></div></pre>
